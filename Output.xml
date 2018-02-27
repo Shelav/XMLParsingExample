@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<question id="1">
+    <answers>
+        <answersName>Java is Programing language</answersName>
+        <id>101</id>
+        <postedBy>John</postedBy>
+    </answers>
+    <answers>
+        <answersName>Java is a Platform independent</answersName>
+        <id>102</id>
+        <postedBy>Robert</postedBy>
+    </answers>
+    <questionName>What is Java?</questionName>
+</question>
